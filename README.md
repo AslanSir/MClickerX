@@ -7,3 +7,5 @@ In addition to being completely free, thanks to MClickerX, which has many settin
 
 
 #### Current version: 3.9.6
+
+##### Discord Link: https://discord.gg/f3tBuxWxKJ
