@@ -6,4 +6,4 @@ In addition to being completely free, thanks to MClickerX, which has many settin
 ![Screenshot](pc1.png)
 
 
-#### Current version: 4.9.6
+#### Current version: 3.9.6
