@@ -6,4 +6,4 @@ In addition to being completely free, thanks to MClickerX, which has many settin
 ![Screenshot](pc3.png)
 
 
-#### Current version: 2.0.0
+#### Current version: kapat
